@@ -8,3 +8,4 @@
 * [Command](/src/main/java/com/patterns/Command)
 * [Adapter](/src/main/java/com/patterns/Adapter)
 * [Facade](/src/main/java/com/patterns/Facade)
+* [Iterator](/src/main/java/com/patterns/Iterator)
