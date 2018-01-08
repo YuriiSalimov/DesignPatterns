@@ -9,3 +9,4 @@
 * [Adapter](/src/main/java/com/patterns/Adapter)
 * [Facade](/src/main/java/com/patterns/Facade)
 * [Iterator](/src/main/java/com/patterns/Iterator)
+* [Composite](/src/main/java/com/patterns/Composite)
