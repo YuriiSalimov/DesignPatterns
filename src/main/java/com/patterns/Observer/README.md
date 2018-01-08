@@ -1,6 +1,4 @@
-## [Design Patterns]()
-
-### Observer
+## Design Patterns - Observer
 
 ![Observer](Observer.jpg)
 
