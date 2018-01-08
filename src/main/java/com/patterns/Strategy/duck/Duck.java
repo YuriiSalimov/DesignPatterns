@@ -1,4 +1,4 @@
-package com.patterns.Strategy;
+package com.patterns.Strategy.duck;
 
 public abstract class Duck {
 
