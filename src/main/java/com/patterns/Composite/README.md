@@ -3,5 +3,5 @@
 ![Composite](IteratorAndComposite.jpg)
 
 [**<- Iterator**](../Iterator)
-<!--|
-[**Composite ->**](../Composite)-->
+|
+[**Proxy ->**](../Proxy)
