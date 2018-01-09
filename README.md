@@ -10,3 +10,4 @@
 * [Facade](/src/main/java/com/patterns/Facade)
 * [Iterator](/src/main/java/com/patterns/Iterator)
 * [Composite](/src/main/java/com/patterns/Composite)
+* [Proxy](/src/main/java/com/patterns/Proxy)
