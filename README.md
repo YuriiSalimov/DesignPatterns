@@ -11,3 +11,4 @@
 * [Iterator](/src/main/java/com/patterns/Iterator)
 * [Composite](/src/main/java/com/patterns/Composite)
 * [Proxy](/src/main/java/com/patterns/Proxy)
+* [Combined (MVC)](/src/main/java/com/patterns/Combined)
