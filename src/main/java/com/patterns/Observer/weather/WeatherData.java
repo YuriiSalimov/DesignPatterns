@@ -19,7 +19,7 @@ public final class WeatherData implements Subject {
 
     public void notifyObservers() {
         for (Observer observer : this.observers) {
-            observer.update(temperature, humidity, pressure);
+            observer.update(this.temperature, this.humidity, this.pressure);
         }
     }
 
