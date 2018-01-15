@@ -9,14 +9,17 @@ public final class WeatherData implements Subject {
     private double humidity;
     private double pressure;
 
+    @Override
     public void registerObserver(final Observer observer) {
         observers.add(observer);
     }
 
+    @Override
     public void removeObserver(final Observer observer) {
         this.observers.remove(observer);
     }
 
+    @Override
     public void notifyObservers() {
         for (Observer observer : this.observers) {
             observer.update(this.temperature, this.humidity, this.pressure);
