@@ -2,6 +2,6 @@
 
 ![Proxy](Proxy.jpg)
 
-[**<- Composite**](../Composite)
+[**<- State**](../State)
 |
 [**Combined (MVC) ->**](../Combined)
