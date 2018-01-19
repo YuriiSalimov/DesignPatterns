@@ -10,5 +10,6 @@
 * [Facade](/src/main/java/com/patterns/Facade)
 * [Iterator](/src/main/java/com/patterns/Iterator)
 * [Composite](/src/main/java/com/patterns/Composite)
+* [State](/src/main/java/com/patterns/State)
 * [Proxy](/src/main/java/com/patterns/Proxy)
 * [Combined (MVC)](/src/main/java/com/patterns/Combined)
